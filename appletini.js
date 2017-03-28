@@ -38,10 +38,10 @@
 *                      ==============
 */
 
-var appletini = {
+let appletini = {
 
     recipe: function () {
         return "3 parts Vodka, 1 part Apple Schnapps, 1 part Cointreau. Mix in a shaker, then pour into a chilled glass. Garnish and serve straight up with an apple slice in a cocktail glass.";
     }
-    
+
 };
